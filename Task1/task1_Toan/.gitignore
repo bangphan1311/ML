@@ -1,0 +1,4 @@
+.venv/
+result.txt
+catboost_info/
+train_with_anomaly_score.csv

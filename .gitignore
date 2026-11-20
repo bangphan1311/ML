@@ -1,0 +1,8 @@
+.venv/
+catboost_info/
+**/catboost_info/
+**/.venv/
+*.csv
+!train.csv
+!test.csv
+train_with_anomaly_score.csv

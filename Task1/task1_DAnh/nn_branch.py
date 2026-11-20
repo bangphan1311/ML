@@ -1,8 +1,4 @@
-"""Nhánh NN: MLP + embedding, 5-fold theo cột `fold` có sẵn trong train.csv.
 
-Chạy:  python nn_branch.py --train train.csv
-Thử nhanh (1 fold, 1 epoch, 50k dòng):  python nn_branch.py --train train.csv --smoke
-"""
 import argparse
 import time
 
